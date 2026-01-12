@@ -1,0 +1,9 @@
+{
+	"id": "bimGslOu1W25uAj",
+	"json": "{\"id\":\"bimGslOu1W25uAj\",\"url\":\"https://www.worldofbooks.com/en-gb/products/bookseller-of-inverness-book-sg-maclean-9781529414219\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/bookseller-of-inverness-book-sg-maclean-9781529414219\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197924882,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/bookseller-of-inverness-book-sg-maclean-9781529414219",
+	"url": "https://www.worldofbooks.com/en-gb/products/bookseller-of-inverness-book-sg-maclean-9781529414219"
+}

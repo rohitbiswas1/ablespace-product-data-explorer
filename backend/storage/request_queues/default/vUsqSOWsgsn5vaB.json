@@ -1,0 +1,9 @@
+{
+	"id": "vUsqSOWsgsn5vaB",
+	"json": "{\"id\":\"vUsqSOWsgsn5vaB\",\"url\":\"https://www.worldofbooks.com/en-gb/products/f-k-it-list-book-melanie-cantor-9781529176797\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/f-k-it-list-book-melanie-cantor-9781529176797\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768198597082,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/f-k-it-list-book-melanie-cantor-9781529176797",
+	"url": "https://www.worldofbooks.com/en-gb/products/f-k-it-list-book-melanie-cantor-9781529176797"
+}

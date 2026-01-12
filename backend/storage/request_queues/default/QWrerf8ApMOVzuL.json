@@ -1,0 +1,9 @@
+{
+	"id": "QWrerf8ApMOVzuL",
+	"json": "{\"id\":\"QWrerf8ApMOVzuL\",\"url\":\"https://www.worldofbooks.com/en-gb/products/intermezzo-book-sally-rooney-9780571365487\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/intermezzo-book-sally-rooney-9780571365487\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/intermezzo-book-sally-rooney-9780571365487\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:39.660Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/intermezzo-book-sally-rooney-9780571365487",
+	"url": "https://www.worldofbooks.com/en-gb/products/intermezzo-book-sally-rooney-9780571365487"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lvfgtfFuhXmbXoG",
+	"json": "{\"id\":\"lvfgtfFuhXmbXoG\",\"url\":\"https://www.worldofbooks.com/en-gb/collections/classic-fiction-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/classic-fiction-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/collections/classic-fiction-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:05:58.019Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/collections/classic-fiction-books",
+	"url": "https://www.worldofbooks.com/en-gb/collections/classic-fiction-books"
+}

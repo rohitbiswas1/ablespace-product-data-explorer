@@ -1,0 +1,9 @@
+{
+	"id": "8OG7fLBQJuCpHVZ",
+	"json": "{\"id\":\"8OG7fLBQJuCpHVZ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/midnight-feast-book-lucy-foley-9780008385088\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/midnight-feast-book-lucy-foley-9780008385088\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197924855,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/midnight-feast-book-lucy-foley-9780008385088",
+	"url": "https://www.worldofbooks.com/en-gb/products/midnight-feast-book-lucy-foley-9780008385088"
+}

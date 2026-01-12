@@ -1,0 +1,12 @@
+model Product {
+  id            Int       @id @default(autoincrement())
+  title         String
+  price         Float
+  imageUrl      String?
+  sourceUrl     String    @unique
+  sourceId      String
+  currency      String
+  lastScrapedAt DateTime?
+
+  productDetail ProductDetail?
+}

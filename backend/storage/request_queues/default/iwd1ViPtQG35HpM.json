@@ -1,0 +1,9 @@
+{
+	"id": "iwd1ViPtQG35HpM",
+	"json": "{\"id\":\"iwd1ViPtQG35HpM\",\"url\":\"https://www.worldofbooks.com/en-gb/collections/literature-and-literary-studies-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/literature-and-literary-studies-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/collections/literature-and-literary-studies-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:08:01.568Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/collections/literature-and-literary-studies-books",
+	"url": "https://www.worldofbooks.com/en-gb/collections/literature-and-literary-studies-books"
+}

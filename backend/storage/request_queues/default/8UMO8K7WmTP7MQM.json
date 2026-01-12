@@ -1,0 +1,9 @@
+{
+	"id": "8UMO8K7WmTP7MQM",
+	"json": "{\"id\":\"8UMO8K7WmTP7MQM\",\"url\":\"https://www.worldofbooks.com/en-gb/products/long-island-book-toibin-colm-9781035029464\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/long-island-book-toibin-colm-9781035029464\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/long-island-book-toibin-colm-9781035029464\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:47.799Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/long-island-book-toibin-colm-9781035029464",
+	"url": "https://www.worldofbooks.com/en-gb/products/long-island-book-toibin-colm-9781035029464"
+}

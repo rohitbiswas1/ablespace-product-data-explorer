@@ -1,0 +1,9 @@
+{
+	"id": "u7s9GkM1eYThFDX",
+	"json": "{\"id\":\"u7s9GkM1eYThFDX\",\"url\":\"https://www.worldofbooks.com/en-gb/products/remember-me-book-sophie-kinsella-9780552772761\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/remember-me-book-sophie-kinsella-9780552772761\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/remember-me-book-sophie-kinsella-9780552772761\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:47.939Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/remember-me-book-sophie-kinsella-9780552772761",
+	"url": "https://www.worldofbooks.com/en-gb/products/remember-me-book-sophie-kinsella-9780552772761"
+}

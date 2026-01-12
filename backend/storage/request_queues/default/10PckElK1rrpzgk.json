@@ -1,0 +1,9 @@
+{
+	"id": "10PckElK1rrpzgk",
+	"json": "{\"id\":\"10PckElK1rrpzgk\",\"url\":\"https://www.worldofbooks.com/en-gb/products/my-not-so-perfect-life-book-sophie-kinsella-9781784160425\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/my-not-so-perfect-life-book-sophie-kinsella-9781784160425\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/my-not-so-perfect-life-book-sophie-kinsella-9781784160425\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:35.784Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/my-not-so-perfect-life-book-sophie-kinsella-9781784160425",
+	"url": "https://www.worldofbooks.com/en-gb/products/my-not-so-perfect-life-book-sophie-kinsella-9781784160425"
+}

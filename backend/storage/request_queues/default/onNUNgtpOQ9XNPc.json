@@ -1,0 +1,9 @@
+{
+	"id": "onNUNgtpOQ9XNPc",
+	"json": "{\"id\":\"onNUNgtpOQ9XNPc\",\"url\":\"https://www.worldofbooks.com/en-gb/products/trial-book-rob-rinder-9781804940389\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/trial-book-rob-rinder-9781804940389\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/trial-book-rob-rinder-9781804940389\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:54.111Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/trial-book-rob-rinder-9781804940389",
+	"url": "https://www.worldofbooks.com/en-gb/products/trial-book-rob-rinder-9781804940389"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iqQOnD74SyzGYAW",
+	"json": "{\"id\":\"iqQOnD74SyzGYAW\",\"url\":\"https://www.worldofbooks.com/\",\"loadedUrl\":\"https://www.worldofbooks.com/\",\"uniqueKey\":\"https://www.worldofbooks.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: requestHandler timed out after 60 seconds.\\n    at Timeout._onTimeout (C:\\\\Users\\\\rohit\\\\Downloads\\\\PROJECTS\\\\ablespace-product-data-explorer\\\\backend\\\\node_modules\\\\@apify\\\\src\\\\index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:605:17)\\n    at process.processTimers (node:internal/timers:541:7)\"],\"headers\":{},\"userData\":{\"label\":\"NAVIGATION\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-01-12T06:05:04.484Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.worldofbooks.com",
+	"url": "https://www.worldofbooks.com/"
+}

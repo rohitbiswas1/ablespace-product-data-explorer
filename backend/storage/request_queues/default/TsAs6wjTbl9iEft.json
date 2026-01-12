@@ -1,0 +1,9 @@
+{
+	"id": "TsAs6wjTbl9iEft",
+	"json": "{\"id\":\"TsAs6wjTbl9iEft\",\"url\":\"https://www.worldofbooks.com/en-gb/products/all-the-light-we-cannot-see-book-anthony-doerr-9780008138301\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/all-the-light-we-cannot-see-book-anthony-doerr-9780008138301\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/all-the-light-we-cannot-see-book-anthony-doerr-9780008138301\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:25.526Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/all-the-light-we-cannot-see-book-anthony-doerr-9780008138301",
+	"url": "https://www.worldofbooks.com/en-gb/products/all-the-light-we-cannot-see-book-anthony-doerr-9780008138301"
+}

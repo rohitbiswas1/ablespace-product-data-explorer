@@ -1,0 +1,40 @@
+{
+  "requestsFinished": 145,
+  "requestsFailed": 0,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 11,
+  "requestMinDurationMillis": 3945,
+  "requestMaxDurationMillis": 45998,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 2038937,
+  "crawlerStartedAt": "2026-01-12T06:02:53.675Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2026-01-12T06:12:53.724Z",
+  "crawlerRuntimeMillis": 767815,
+  "crawlerLastStartTimestamp": 1768197605909,
+  "requestRetryHistogram": [
+    144,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 14062,
+  "requestTotalDurationMillis": 2038937,
+  "requestsTotal": 145,
+  "requestsWithStatusCode": {
+    "200": 146
+  },
+  "errors": {},
+  "retryErrors": {
+    "C:\\Users\\rohit\\Downloads\\PROJECTS\\ablespace-product-data-explorer\\backend\\node_modules\\@apify\\src\\index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "requestHandler timed out after 60 seconds.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

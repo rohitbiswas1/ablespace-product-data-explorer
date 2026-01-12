@@ -1,0 +1,9 @@
+{
+	"id": "KXoB8vI9uo6ILFq",
+	"json": "{\"id\":\"KXoB8vI9uo6ILFq\",\"url\":\"https://www.worldofbooks.com/en-gb/collections/childrens-non-fiction-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/childrens-non-fiction-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/collections/childrens-non-fiction-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:09:32.526Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/collections/childrens-non-fiction-books",
+	"url": "https://www.worldofbooks.com/en-gb/collections/childrens-non-fiction-books"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XGv18y0UkrqJ49v",
+	"json": "{\"id\":\"XGv18y0UkrqJ49v\",\"url\":\"https://www.worldofbooks.com/en-gb/products/alchemised-book-senlinyu-9780241714331\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/alchemised-book-senlinyu-9780241714331\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/alchemised-book-senlinyu-9780241714331\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:14.651Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/alchemised-book-senlinyu-9780241714331",
+	"url": "https://www.worldofbooks.com/en-gb/products/alchemised-book-senlinyu-9780241714331"
+}

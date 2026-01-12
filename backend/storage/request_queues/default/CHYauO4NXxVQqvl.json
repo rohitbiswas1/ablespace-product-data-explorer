@@ -1,0 +1,9 @@
+{
+	"id": "CHYauO4NXxVQqvl",
+	"json": "{\"id\":\"CHYauO4NXxVQqvl\",\"url\":\"https://www.worldofbooks.com/en-gb/pages/baby-and-toddler-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/pages/baby-and-toddler-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/pages/baby-and-toddler-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:09:17.768Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/pages/baby-and-toddler-books",
+	"url": "https://www.worldofbooks.com/en-gb/pages/baby-and-toddler-books"
+}

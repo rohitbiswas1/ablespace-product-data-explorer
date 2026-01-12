@@ -1,0 +1,9 @@
+{
+	"id": "QslvHiswetTCr8p",
+	"json": "{\"id\":\"QslvHiswetTCr8p\",\"url\":\"https://www.worldofbooks.com/en-gb/products/shopaholic-ties-the-knot-book-sophie-kinsella-9780552999571\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/shopaholic-ties-the-knot-book-sophie-kinsella-9780552999571\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/shopaholic-ties-the-knot-book-sophie-kinsella-9780552999571\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:59.017Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/shopaholic-ties-the-knot-book-sophie-kinsella-9780552999571",
+	"url": "https://www.worldofbooks.com/en-gb/products/shopaholic-ties-the-knot-book-sophie-kinsella-9780552999571"
+}

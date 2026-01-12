@@ -1,0 +1,9 @@
+{
+	"id": "kjgSms4KfsdV2yJ",
+	"json": "{\"id\":\"kjgSms4KfsdV2yJ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/everyone-here-is-lying-book-shari-lapena-9781529176155\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/everyone-here-is-lying-book-shari-lapena-9781529176155\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197924838,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/everyone-here-is-lying-book-shari-lapena-9781529176155",
+	"url": "https://www.worldofbooks.com/en-gb/products/everyone-here-is-lying-book-shari-lapena-9781529176155"
+}

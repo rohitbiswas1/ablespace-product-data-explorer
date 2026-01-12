@@ -1,0 +1,9 @@
+{
+	"id": "XonoaPzQ8Tk9uJw",
+	"json": "{\"id\":\"XonoaPzQ8Tk9uJw\",\"url\":\"https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552998871\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552998871?sku=GOR002914037\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552998871\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:57.898Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552998871",
+	"url": "https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552998871"
+}

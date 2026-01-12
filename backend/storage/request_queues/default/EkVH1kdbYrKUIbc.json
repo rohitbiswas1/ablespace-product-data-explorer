@@ -1,0 +1,9 @@
+{
+	"id": "EkVH1kdbYrKUIbc",
+	"json": "{\"id\":\"EkVH1kdbYrKUIbc\",\"url\":\"https://www.worldofbooks.com/en-gb/products/black-loch-book-peter-may-9781529436105\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/black-loch-book-peter-may-9781529436105\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/black-loch-book-peter-may-9781529436105\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:12:03.182Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/black-loch-book-peter-may-9781529436105",
+	"url": "https://www.worldofbooks.com/en-gb/products/black-loch-book-peter-may-9781529436105"
+}

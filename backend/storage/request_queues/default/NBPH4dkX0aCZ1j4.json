@@ -1,0 +1,9 @@
+{
+	"id": "NBPH4dkX0aCZ1j4",
+	"json": "{\"id\":\"NBPH4dkX0aCZ1j4\",\"url\":\"https://www.worldofbooks.com/en-gb/products/last-tudor-book-philippa-gregory-9781471133077\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/last-tudor-book-philippa-gregory-9781471133077\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197924873,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/last-tudor-book-philippa-gregory-9781471133077",
+	"url": "https://www.worldofbooks.com/en-gb/products/last-tudor-book-philippa-gregory-9781471133077"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "P96z3uskD90oRZA",
+	"json": "{\"id\":\"P96z3uskD90oRZA\",\"url\":\"https://www.worldofbooks.com/en-gb/products/shopaholic-to-the-stars-book-sophie-kinsella-9780552778534\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/shopaholic-to-the-stars-book-sophie-kinsella-9780552778534\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/shopaholic-to-the-stars-book-sophie-kinsella-9780552778534\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:57.685Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/shopaholic-to-the-stars-book-sophie-kinsella-9780552778534",
+	"url": "https://www.worldofbooks.com/en-gb/products/shopaholic-to-the-stars-book-sophie-kinsella-9780552778534"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3vogpOWqOajBizn",
+	"json": "{\"id\":\"3vogpOWqOajBizn\",\"url\":\"https://www.worldofbooks.com/en-gb/products/blue-hour-book-paula-hawkins-9781804995334\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/blue-hour-book-paula-hawkins-9781804995334\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768198597082,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/blue-hour-book-paula-hawkins-9781804995334",
+	"url": "https://www.worldofbooks.com/en-gb/products/blue-hour-book-paula-hawkins-9781804995334"
+}

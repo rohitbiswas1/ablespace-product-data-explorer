@@ -1,0 +1,9 @@
+{
+	"id": "wO9oazz6kQKRcUh",
+	"json": "{\"id\":\"wO9oazz6kQKRcUh\",\"url\":\"https://www.worldofbooks.com/en-gb/collections/sagas-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/sagas-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/collections/sagas-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:06:26.257Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/collections/sagas-books",
+	"url": "https://www.worldofbooks.com/en-gb/collections/sagas-books"
+}

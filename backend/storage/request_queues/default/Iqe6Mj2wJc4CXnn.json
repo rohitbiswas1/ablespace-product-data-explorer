@@ -1,0 +1,9 @@
+{
+	"id": "Iqe6Mj2wJc4CXnn",
+	"json": "{\"id\":\"Iqe6Mj2wJc4CXnn\",\"url\":\"https://www.worldofbooks.com/en-gb/products/inmate-book-freida-mcfadden-9781464221385\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/inmate-book-freida-mcfadden-9781464221385\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197924867,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/inmate-book-freida-mcfadden-9781464221385",
+	"url": "https://www.worldofbooks.com/en-gb/products/inmate-book-freida-mcfadden-9781464221385"
+}

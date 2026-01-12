@@ -1,0 +1,9 @@
+{
+	"id": "mYs7pnopU9wdEvz",
+	"json": "{\"id\":\"mYs7pnopU9wdEvz\",\"url\":\"https://www.worldofbooks.com/en-gb/products/i-owe-you-one-book-sophie-kinsella-9781784163570\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/i-owe-you-one-book-sophie-kinsella-9781784163570\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/i-owe-you-one-book-sophie-kinsella-9781784163570\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:53.480Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/i-owe-you-one-book-sophie-kinsella-9781784163570",
+	"url": "https://www.worldofbooks.com/en-gb/products/i-owe-you-one-book-sophie-kinsella-9781784163570"
+}

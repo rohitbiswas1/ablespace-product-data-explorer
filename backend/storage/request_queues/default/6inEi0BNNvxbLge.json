@@ -1,0 +1,9 @@
+{
+	"id": "6inEi0BNNvxbLge",
+	"json": "{\"id\":\"6inEi0BNNvxbLge\",\"url\":\"https://www.worldofbooks.com/en-gb/products/these-violent-delights-book-chloe-gong-9781529344530\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/these-violent-delights-book-chloe-gong-9781529344530\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197942748,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/these-violent-delights-book-chloe-gong-9781529344530",
+	"url": "https://www.worldofbooks.com/en-gb/products/these-violent-delights-book-chloe-gong-9781529344530"
+}

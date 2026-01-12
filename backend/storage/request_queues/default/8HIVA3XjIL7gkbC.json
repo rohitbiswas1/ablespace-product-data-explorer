@@ -1,0 +1,9 @@
+{
+	"id": "8HIVA3XjIL7gkbC",
+	"json": "{\"id\":\"8HIVA3XjIL7gkbC\",\"url\":\"https://www.worldofbooks.com/en-gb/products/godkiller-book-hannah-kaner-9780008521509\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/godkiller-book-hannah-kaner-9780008521509\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197942815,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/godkiller-book-hannah-kaner-9780008521509",
+	"url": "https://www.worldofbooks.com/en-gb/products/godkiller-book-hannah-kaner-9780008521509"
+}

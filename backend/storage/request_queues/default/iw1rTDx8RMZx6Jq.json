@@ -1,0 +1,9 @@
+{
+	"id": "iw1rTDx8RMZx6Jq",
+	"json": "{\"id\":\"iw1rTDx8RMZx6Jq\",\"url\":\"https://www.worldofbooks.com/en-gb/products/thousand-boy-kisses-book-tillie-cole-9781405955317\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/thousand-boy-kisses-book-tillie-cole-9781405955317\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768198597082,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/thousand-boy-kisses-book-tillie-cole-9781405955317",
+	"url": "https://www.worldofbooks.com/en-gb/products/thousand-boy-kisses-book-tillie-cole-9781405955317"
+}

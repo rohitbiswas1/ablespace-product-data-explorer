@@ -1,0 +1,9 @@
+{
+	"id": "2fmQ0Lsj3Rbb2Ov",
+	"json": "{\"id\":\"2fmQ0Lsj3Rbb2Ov\",\"url\":\"https://www.worldofbooks.com/en-gb/products/marriage-portrait-book-maggie-o-farrell-9781472223883\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/marriage-portrait-book-maggie-o-farrell-9781472223883\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/marriage-portrait-book-maggie-o-farrell-9781472223883\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:27.327Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/marriage-portrait-book-maggie-o-farrell-9781472223883",
+	"url": "https://www.worldofbooks.com/en-gb/products/marriage-portrait-book-maggie-o-farrell-9781472223883"
+}

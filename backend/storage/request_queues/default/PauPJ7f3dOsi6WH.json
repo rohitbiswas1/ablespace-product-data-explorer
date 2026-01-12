@@ -1,0 +1,9 @@
+{
+	"id": "PauPJ7f3dOsi6WH",
+	"json": "{\"id\":\"PauPJ7f3dOsi6WH\",\"url\":\"https://www.worldofbooks.com/en-gb/products/kingdom-of-the-wicked-book-kerri-maniscalco-9781529350487\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/kingdom-of-the-wicked-book-kerri-maniscalco-9781529350487\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197942788,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/kingdom-of-the-wicked-book-kerri-maniscalco-9781529350487",
+	"url": "https://www.worldofbooks.com/en-gb/products/kingdom-of-the-wicked-book-kerri-maniscalco-9781529350487"
+}

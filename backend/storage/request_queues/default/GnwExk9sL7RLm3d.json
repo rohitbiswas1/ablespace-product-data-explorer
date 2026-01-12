@@ -1,0 +1,9 @@
+{
+	"id": "GnwExk9sL7RLm3d",
+	"json": "{\"id\":\"GnwExk9sL7RLm3d\",\"url\":\"https://www.worldofbooks.com/en-gb/products/love-hypothesis-book-ali-hazelwood-9781408725764\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/love-hypothesis-book-ali-hazelwood-9781408725764\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/love-hypothesis-book-ali-hazelwood-9781408725764\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:13:37.785Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/love-hypothesis-book-ali-hazelwood-9781408725764",
+	"url": "https://www.worldofbooks.com/en-gb/products/love-hypothesis-book-ali-hazelwood-9781408725764"
+}

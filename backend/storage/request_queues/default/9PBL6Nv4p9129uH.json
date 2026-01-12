@@ -1,0 +1,9 @@
+{
+	"id": "9PBL6Nv4p9129uH",
+	"json": "{\"id\":\"9PBL6Nv4p9129uH\",\"url\":\"https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552778329\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552778329\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552778329\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:10:47.758Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552778329",
+	"url": "https://www.worldofbooks.com/en-gb/products/secret-dreamworld-of-a-shopaholic-book-sophie-kinsella-9780552778329"
+}

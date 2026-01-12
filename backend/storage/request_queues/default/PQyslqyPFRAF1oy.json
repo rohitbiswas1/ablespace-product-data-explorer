@@ -1,0 +1,9 @@
+{
+	"id": "PQyslqyPFRAF1oy",
+	"json": "{\"id\":\"PQyslqyPFRAF1oy\",\"url\":\"https://www.worldofbooks.com/en-gb/products/when-the-moon-hatched-book-sarah-a-parker-9780008710262\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/when-the-moon-hatched-book-sarah-a-parker-9780008710262\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197942811,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/when-the-moon-hatched-book-sarah-a-parker-9780008710262",
+	"url": "https://www.worldofbooks.com/en-gb/products/when-the-moon-hatched-book-sarah-a-parker-9780008710262"
+}

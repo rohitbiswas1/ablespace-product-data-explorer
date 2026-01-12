@@ -1,0 +1,9 @@
+{
+	"id": "NoFscRrtP108kxq",
+	"json": "{\"id\":\"NoFscRrtP108kxq\",\"url\":\"https://www.worldofbooks.com/en-gb/products/someone-in-the-attic-book-andrea-mara-9781804990797\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/someone-in-the-attic-book-andrea-mara-9781804990797\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768198597082,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/someone-in-the-attic-book-andrea-mara-9781804990797",
+	"url": "https://www.worldofbooks.com/en-gb/products/someone-in-the-attic-book-andrea-mara-9781804990797"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ucOqCTBKb1eA5ZX",
+	"json": "{\"id\":\"ucOqCTBKb1eA5ZX\",\"url\":\"https://www.worldofbooks.com/en-gb/products/midnight-hour-book-eve-chase-9781405956161\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/midnight-hour-book-eve-chase-9781405956161\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/midnight-hour-book-eve-chase-9781405956161\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:11:58.116Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/midnight-hour-book-eve-chase-9781405956161",
+	"url": "https://www.worldofbooks.com/en-gb/products/midnight-hour-book-eve-chase-9781405956161"
+}

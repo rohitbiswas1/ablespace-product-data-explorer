@@ -1,0 +1,9 @@
+{
+	"id": "LgTCU2lLZSxL7u6",
+	"json": "{\"id\":\"LgTCU2lLZSxL7u6\",\"url\":\"https://www.worldofbooks.com/en-gb/collections/arts-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/arts-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/collections/arts-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:07:28.299Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/collections/arts-books",
+	"url": "https://www.worldofbooks.com/en-gb/collections/arts-books"
+}

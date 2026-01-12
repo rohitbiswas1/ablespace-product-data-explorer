@@ -1,0 +1,9 @@
+{
+	"id": "j8FnRc02GmPJDS0",
+	"json": "{\"id\":\"j8FnRc02GmPJDS0\",\"url\":\"https://www.worldofbooks.com/en-gb/products/woman-in-cabin-10-book-ruth-ware-9780099598237\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/woman-in-cabin-10-book-ruth-ware-9780099598237\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/woman-in-cabin-10-book-ruth-ware-9780099598237\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:12:05.754Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/woman-in-cabin-10-book-ruth-ware-9780099598237",
+	"url": "https://www.worldofbooks.com/en-gb/products/woman-in-cabin-10-book-ruth-ware-9780099598237"
+}

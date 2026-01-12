@@ -1,0 +1,9 @@
+{
+	"id": "p4193IQqGvVKzS4",
+	"json": "{\"id\":\"p4193IQqGvVKzS4\",\"url\":\"https://www.worldofbooks.com/en-gb/products/problematic-summer-romance-book-ali-hazelwood-9781408729885\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/problematic-summer-romance-book-ali-hazelwood-9781408729885\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768198597082,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/problematic-summer-romance-book-ali-hazelwood-9781408729885",
+	"url": "https://www.worldofbooks.com/en-gb/products/problematic-summer-romance-book-ali-hazelwood-9781408729885"
+}

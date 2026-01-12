@@ -1,0 +1,9 @@
+{
+	"id": "BaYgGb7EyaBazDc",
+	"json": "{\"id\":\"BaYgGb7EyaBazDc\",\"url\":\"https://www.worldofbooks.com/en-gb/products/atlas-six-book-olivie-blake-9781529095258\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/atlas-six-book-olivie-blake-9781529095258\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768197942650,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/atlas-six-book-olivie-blake-9781529095258",
+	"url": "https://www.worldofbooks.com/en-gb/products/atlas-six-book-olivie-blake-9781529095258"
+}

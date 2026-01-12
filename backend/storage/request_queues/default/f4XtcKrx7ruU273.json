@@ -1,0 +1,9 @@
+{
+	"id": "f4XtcKrx7ruU273",
+	"json": "{\"id\":\"f4XtcKrx7ruU273\",\"url\":\"https://www.worldofbooks.com/en-gb/products/six-years-book-harlan-coben-9781409103943\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/six-years-book-harlan-coben-9781409103943\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/six-years-book-harlan-coben-9781409103943\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-12T06:12:03.301Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/six-years-book-harlan-coben-9781409103943",
+	"url": "https://www.worldofbooks.com/en-gb/products/six-years-book-harlan-coben-9781409103943"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aj4dWjqmv3JirUN",
+	"json": "{\"id\":\"aj4dWjqmv3JirUN\",\"url\":\"https://www.worldofbooks.com/en-gb/products/things-we-never-got-over-book-lucy-score-9781399713740\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/things-we-never-got-over-book-lucy-score-9781399713740\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT_DETAIL\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1768198656504,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/things-we-never-got-over-book-lucy-score-9781399713740",
+	"url": "https://www.worldofbooks.com/en-gb/products/things-we-never-got-over-book-lucy-score-9781399713740"
+}
